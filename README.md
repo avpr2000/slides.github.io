@@ -1,2 +1,2 @@
-# slides.github.io
+# slides
 Repository of Slides | Projects
